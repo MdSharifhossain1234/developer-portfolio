@@ -29,11 +29,9 @@ nav ul {
     color: #FD6E0A;
 }
 
-.btn{
-    font-weight: 500;
-    font-size: 30px;
-    margin-left: 50px;
-    border-color: #FD6E0A 10px;
+
+#contact{
+    background-color: chartreuse;
 }
 
 .btn-primary {
