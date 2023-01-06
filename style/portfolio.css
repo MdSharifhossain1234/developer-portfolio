@@ -170,6 +170,7 @@ nav ul {
 .resume-content {
 
     display: flex;
+    gap: 100px;
     
    
 
@@ -199,4 +200,33 @@ nav ul {
 .resume-button{
     margin-top: 50px;
     text-align: center;
+}
+
+/* contact style */
+
+.contact.section-tittle{
+    text-align: left;
+    
+}
+
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0px;
+    width: 100%;
+    padding:  18px 30px;
+}
+
+input{
+    height: 64px;
+}
+
+.contact a{
+    text-decoration: none;
 }
