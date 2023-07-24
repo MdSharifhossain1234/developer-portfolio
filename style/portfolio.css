@@ -235,3 +235,9 @@ input{
 .contact a{
     text-decoration: none;
 }
+
+.img-custom{
+background-position: center;
+background-size: cover;
+height:600px
+}
